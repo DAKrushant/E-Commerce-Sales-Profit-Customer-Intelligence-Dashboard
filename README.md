@@ -8,17 +8,18 @@ A clean and professional Power BI dashboard designed to analyze e-commerce perfo
 ## 🖼 Dashboard Preview
 
 ### **📌 Page 1 — E-Commerce Sales & Profitability Dashboard**
-![E-Commerce Sales & Profit](ecom_sales_profit.png)
+![E-Commerce Sales & Profit](Ecom-Dashboard-Screenshots/ecom_sales_profit.png)
+
 
 ---
 
 ### **📌 Page 2 — Customer & Segment Analysis**
-![Customer & Segment Analysis](customer_segment_analysis.png)
+![Customer & Segment Analysis](Ecom Dashboard Screen Shot/customer_segment_analysis.png)
 
 ---
 
 ### **📌 Page 3 — Customer Details (Drillthrough Page)**
-![Customer Details](customer_details.png)
+![Customer Details](Ecom Dashboard Screen Shot/customer_details.png)
 
 ---
 
