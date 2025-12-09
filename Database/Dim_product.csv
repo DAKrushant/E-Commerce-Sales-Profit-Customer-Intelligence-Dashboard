@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,SubCategory,Brand
+1,Laptop 1,Electronics,Laptop,StyleHub
+2,Laptop 2,Electronics,Laptop,NovaTech
+3,Laptop 3,Electronics,Laptop,NovaTech
+4,Laptop 4,Electronics,Laptop,StyleHub
+5,Laptop 5,Electronics,Laptop,HomeEase
+6,Smartphone 1,Electronics,Smartphone,UrbanWear
+7,Smartphone 2,Electronics,Smartphone,UrbanWear
+8,Smartphone 3,Electronics,Smartphone,UrbanWear
+9,Smartphone 4,Electronics,Smartphone,StyleHub
+10,Smartphone 5,Electronics,Smartphone,NovaTech
+11,Headphones 1,Electronics,Headphones,StyleHub
+12,Headphones 2,Electronics,Headphones,StyleHub
+13,Headphones 3,Electronics,Headphones,TechWorld
+14,Headphones 4,Electronics,Headphones,NovaTech
+15,Headphones 5,Electronics,Headphones,TechWorld
+16,Tablet 1,Electronics,Tablet,GlowCare
+17,Tablet 2,Electronics,Tablet,NovaTech
+18,Tablet 3,Electronics,Tablet,NovaTech
+19,Tablet 4,Electronics,Tablet,NovaTech
+20,Tablet 5,Electronics,Tablet,UrbanWear
+21,Smartwatch 1,Electronics,Smartwatch,UrbanWear
+22,Smartwatch 2,Electronics,Smartwatch,TechWorld
+23,Smartwatch 3,Electronics,Smartwatch,TechWorld
+24,Smartwatch 4,Electronics,Smartwatch,NovaTech
+25,Smartwatch 5,Electronics,Smartwatch,TechWorld
+26,T-Shirt 1,Fashion,T-Shirt,UrbanWear
+27,T-Shirt 2,Fashion,T-Shirt,StyleHub
+28,T-Shirt 3,Fashion,T-Shirt,StyleHub
+29,T-Shirt 4,Fashion,T-Shirt,StyleHub
+30,T-Shirt 5,Fashion,T-Shirt,TechWorld
+31,Jeans 1,Fashion,Jeans,GlowCare
+32,Jeans 2,Fashion,Jeans,UrbanWear
+33,Jeans 3,Fashion,Jeans,GlowCare
+34,Jeans 4,Fashion,Jeans,TechWorld
+35,Jeans 5,Fashion,Jeans,HomeEase
+36,Sneakers 1,Fashion,Sneakers,NovaTech
+37,Sneakers 2,Fashion,Sneakers,UrbanWear
+38,Sneakers 3,Fashion,Sneakers,StyleHub
+39,Sneakers 4,Fashion,Sneakers,GlowCare
+40,Sneakers 5,Fashion,Sneakers,HomeEase
+41,Jacket 1,Fashion,Jacket,HomeEase
+42,Jacket 2,Fashion,Jacket,UrbanWear
+43,Jacket 3,Fashion,Jacket,UrbanWear
+44,Jacket 4,Fashion,Jacket,HomeEase
+45,Jacket 5,Fashion,Jacket,NovaTech
+46,Dress 1,Fashion,Dress,NovaTech
+47,Dress 2,Fashion,Dress,GlowCare
+48,Dress 3,Fashion,Dress,NovaTech
+49,Dress 4,Fashion,Dress,HomeEase
+50,Dress 5,Fashion,Dress,HomeEase
+51,Mixer 1,Home,Mixer,TechWorld
+52,Mixer 2,Home,Mixer,HomeEase
+53,Mixer 3,Home,Mixer,NovaTech
+54,Mixer 4,Home,Mixer,StyleHub
+55,Mixer 5,Home,Mixer,GlowCare
+56,Cooker 1,Home,Cooker,TechWorld
+57,Cooker 2,Home,Cooker,NovaTech
+58,Cooker 3,Home,Cooker,GlowCare
+59,Cooker 4,Home,Cooker,NovaTech
+60,Cooker 5,Home,Cooker,TechWorld
+61,Vacuum 1,Home,Vacuum,HomeEase
+62,Vacuum 2,Home,Vacuum,StyleHub
+63,Vacuum 3,Home,Vacuum,TechWorld
+64,Vacuum 4,Home,Vacuum,HomeEase
+65,Vacuum 5,Home,Vacuum,TechWorld
+66,Chair 1,Home,Chair,UrbanWear
+67,Chair 2,Home,Chair,StyleHub
+68,Chair 3,Home,Chair,NovaTech
+69,Chair 4,Home,Chair,NovaTech
+70,Chair 5,Home,Chair,StyleHub
+71,Lamp 1,Home,Lamp,UrbanWear
+72,Lamp 2,Home,Lamp,HomeEase
+73,Lamp 3,Home,Lamp,NovaTech
+74,Lamp 4,Home,Lamp,UrbanWear
+75,Lamp 5,Home,Lamp,NovaTech
+76,Face Cream 1,Beauty,Face Cream,GlowCare
+77,Face Cream 2,Beauty,Face Cream,HomeEase
+78,Face Cream 3,Beauty,Face Cream,GlowCare
+79,Face Cream 4,Beauty,Face Cream,StyleHub
+80,Face Cream 5,Beauty,Face Cream,HomeEase
+81,Shampoo 1,Beauty,Shampoo,UrbanWear
+82,Shampoo 2,Beauty,Shampoo,HomeEase
+83,Shampoo 3,Beauty,Shampoo,HomeEase
+84,Shampoo 4,Beauty,Shampoo,UrbanWear
+85,Shampoo 5,Beauty,Shampoo,StyleHub
+86,Perfume 1,Beauty,Perfume,HomeEase
+87,Perfume 2,Beauty,Perfume,StyleHub
+88,Perfume 3,Beauty,Perfume,StyleHub
+89,Perfume 4,Beauty,Perfume,StyleHub
+90,Perfume 5,Beauty,Perfume,NovaTech
+91,Lipstick 1,Beauty,Lipstick,TechWorld
+92,Lipstick 2,Beauty,Lipstick,StyleHub
+93,Lipstick 3,Beauty,Lipstick,UrbanWear
+94,Lipstick 4,Beauty,Lipstick,TechWorld
+95,Lipstick 5,Beauty,Lipstick,StyleHub
+96,Face Wash 1,Beauty,Face Wash,UrbanWear
+97,Face Wash 2,Beauty,Face Wash,UrbanWear
+98,Face Wash 3,Beauty,Face Wash,GlowCare
+99,Face Wash 4,Beauty,Face Wash,GlowCare
+100,Face Wash 5,Beauty,Face Wash,HomeEase
